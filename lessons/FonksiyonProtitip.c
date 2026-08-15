@@ -15,8 +15,8 @@ int main()
      Argümanlar eksikse derleyicinin bir hata vermesine neden olur 
    */
 
-   char name[] = "Mirac";
-   int age = 14;
+   char name[] = "Marjinal";
+   int age = 20;
 
     hello(name, age);
 

@@ -9,11 +9,11 @@ void birthday(char x[], int y)//paremetre içindeki
 int main()
 {
 
-    char name[] = "Mirac";
-    int age = 13;
+    char name[] = "Marjinal";
+    int age = 20;
 
      birthday(name, age);//argüman parantez içindeki
-     birthday("Nisa", 18);
+     birthday("Marji", 30);
 
 
     return 0;
